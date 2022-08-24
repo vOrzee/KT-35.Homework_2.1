@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63bb6bb0-5cd2-4582-8f85-0d489d9e8fdc" name="Changes" comment="Changed main.kt">
+    <list default="true" id="63bb6bb0-5cd2-4582-8f85-0d489d9e8fdc" name="Changes" comment="Add comments in main.kt">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -87,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661378704158</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add comments in main.kt">
+      <created>1661378886751</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661378886751</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +113,7 @@
     <MESSAGE value="Init Commit" />
     <MESSAGE value="Add main.kt" />
     <MESSAGE value="Changed main.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed main.kt" />
+    <MESSAGE value="Add comments in main.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comments in main.kt" />
   </component>
 </project>
